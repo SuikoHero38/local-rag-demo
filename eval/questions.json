@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Where does the demo read documents from?",
+    "expected_keywords": ["docs", "folder"]
+  },
+  {
+    "question": "What vector store does the demo use?",
+    "expected_keywords": ["Chroma"]
+  },
+  {
+    "question": "Which LLM runtime does the demo use?",
+    "expected_keywords": ["Ollama"]
+  }
+]
